@@ -10,7 +10,7 @@ description: >
   different operations. A subtle bug in an expression-
   capturing wrapper reveals how R's lazy evaluation
   interacts with the pipe operator.
-image: "media/images/hero.jpg"
+image: "media/images/hero.png"
 document-type: "blog"
 draft: false
 execute:
