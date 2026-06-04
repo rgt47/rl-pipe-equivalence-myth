@@ -12,7 +12,7 @@ description: >
   interacts with the pipe operator.
 image: "media/images/hero.png"
 document-type: "blog"
-draft: false
+draft: true
 execute:
   echo: true
   warning: false
@@ -242,7 +242,7 @@ containing the unevaluated expression. The pipe forces
 evaluation before the handoff.
 
 ![Diving deeper into R's evaluation
-semantics.](media/images/ambiance2.jpg){.img-fluid}
+semantics.](media/images/ambiance2.png){.img-fluid}
 
 *Understanding the internals helps explain the surface
 behaviour.*
@@ -486,7 +486,7 @@ Several situations catch people off guard:
    code depending on whether the user piped or nested.
 
 ![Reflecting on what we have
-learned.](media/images/ambiance3.jpg){.img-fluid}
+learned.](media/images/ambiance3.png){.img-fluid}
 
 *The distinction between value semantics and expression
 semantics runs deep in R.*
