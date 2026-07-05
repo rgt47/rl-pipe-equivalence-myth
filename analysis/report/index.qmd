@@ -15,7 +15,7 @@ description: 'Piping and nesting function calls are semantically different opera
   '
 image: media/images/hero.png
 document-type: blog
-draft: false
+draft: true
 execute:
   echo: true
   warning: false
