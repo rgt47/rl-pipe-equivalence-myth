@@ -2,7 +2,7 @@
 title: 'The Pipe Equivalence Myth: When `f() |> g()` Is Not the Same as `g(f())`
 
   '
-author: Ronald G. Thomas
+author: "Ronald G. Thomas"
 date: '2026-01-31'
 categories:
 - r
@@ -20,11 +20,6 @@ execute:
   echo: true
   warning: false
   message: false
-format:
-  html:
-    toc: true
-    code-fold: false
-    code-tools: false
 bibliography: references.bib
 cluster: r-language
 cluster-order: 1
