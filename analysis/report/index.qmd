@@ -616,8 +616,8 @@ effective R metaprogramming.
 
 ## Related Posts
 
-- [Configure the Command Line for Data Science
-  Development](/posts/01-configtermzsh/configtermzsh/analysis/report/index.qmd)
+- [Unix Command-Line Workspace Setup for Data Science
+  Development](../wf-unix-workspace-config/)
 : Terminal and Zsh configuration for R workflows
 
 ## Key Resources
