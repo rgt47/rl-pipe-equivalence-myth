@@ -689,5 +689,5 @@ This post is part of the *R Language and Metaprogramming* series.
 Recommended reading order:
 
 1. **Post 62: The Pipe Equivalence Myth** (this post)
-2. Post 63: [Dynamic Column Names: Seven Approaches Compared](../63-rl-dynamic-column-names/)
+2. Post 63: [Dynamic Column Names: Seven Approaches Compared](../rl-dynamic-column-names/)
 
