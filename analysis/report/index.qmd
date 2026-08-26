@@ -16,9 +16,7 @@ cluster: r-language
 cluster-order: 1
 ---
 
-![Pipe equivalence in R: a closer look at when the
-assumption breaks
-down.](media/images/hero.png){.img-fluid width=80% fig-align="center"}
+![Two wooden domino chains side by side, one laid straight and one coiled back on itself, both ending at the same final domino: two syntactically different call structures that only sometimes reach the same result.](media/images/hero.jpg){.img-fluid width=80% fig-align="center"}
 
 *When pipes meet metaprogramming, the results may
 be surprising.*
