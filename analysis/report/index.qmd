@@ -70,7 +70,7 @@ for designing pipe-safe APIs.
    evaluation.
 2. Explain the evaluation order difference between piped
    and nested calls, with step-by-step tracing.
-3. Catalogue which R functions and metaprogramming tools
+3. Catalog which R functions and metaprogramming tools
    are affected by this problem.
 4. Present four practical design patterns for writing
    functions that work correctly regardless of how they
@@ -232,7 +232,7 @@ evaluation before the handoff.
 semantics.](media/images/ambiance2.png){.img-fluid height=3.5in}
 
 *Understanding the internals helps explain the surface
-behaviour.*
+behavior.*
 
 # A Real-World Example
 
@@ -480,7 +480,7 @@ semantics runs deep in R.*
 
 # What Did We Learn?
 
-## Lessons Learnt
+## Lessons Learned
 
 **Conceptual Understanding:**
 
