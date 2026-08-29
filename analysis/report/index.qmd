@@ -6,7 +6,7 @@ categories: [r, metaprogramming, r-language]
 description: "Piping and nesting function calls are semantically different operations. A subtle bug in an expression- capturing wrapper reveals how R's lazy evaluation interacts with the pipe operator."
 image: "media/images/hero.png"
 document-type: "blog"
-draft: true
+draft: false
 execute:
   echo: true
   warning: false
